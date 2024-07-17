@@ -1,6 +1,6 @@
 # YouTube Downloader em Python
 
-Este repositório contém um projeto de aplicação utilizando Python, focado em criar uma ferramenta para download de vídeos e áudios do YouTube. O objetivo é ensinar aos alunos como criar uma aplicação gráfica em Python utilizando bibliotecas como `tkinter` e `pytube`. Fornecer uma ferramenta educacional para alunos de cursos técnicos e entusiastas de programação aprenderem sobre o desenvolvimento de aplicações em Python. 
+Este repositório contém um projeto de aplicação utilizando Python, focado em criar uma ferramenta para download de vídeos e áudios do YouTube. O objetivo é ensinar aos alunos como criar uma aplicação gráfica em Python utilizando bibliotecas como `tkinter` e `yt_dlp`. Fornecer uma ferramenta educacional para alunos de cursos técnicos e entusiastas de programação aprenderem sobre o desenvolvimento de aplicações em Python. 
 
 ![Imagem do Projeto](https://github.com/Petinelson/YouTubeDownloader-Python/blob/main/imagem_do_projeto_01.png)
 
@@ -9,14 +9,14 @@ Este repositório contém um projeto de aplicação utilizando Python, focado em
 
 - **Python**: Linguagem de programação utilizada para desenvolver a aplicação.
 - **tkinter**: Biblioteca utilizada para criar a interface gráfica do usuário (GUI).
-- **pytube**: Biblioteca utilizada para baixar vídeos e áudios do YouTube.
+- **yt_dlp**: Biblioteca utilizada para baixar vídeos e áudios do YouTube.
 - **pyinstaller**: Ferramenta utilizada para criar o executável do projeto para Windows.
 
 ## Pré-Requisitos
 
 Para utilizar este projeto, você precisa ter o seguinte ambiente configurado:
 
-- Python com suporte para as bibliotecas `tkinter` e `pytube`.
+- Python com suporte para as bibliotecas `tkinter` e `yt_dlp`.
 - Foi utilizado o Python na versão 3.11
 
 ## Arquivos no Repositório
